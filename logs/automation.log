@@ -1,0 +1,151 @@
+12:25:03.754 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+12:25:03.772 [main] INFO  testcases.tc_001_new_registeration - checking my account
+12:25:03.857 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+12:25:04.912 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+12:25:05.010 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+12:25:05.117 [main] INFO  testcases.tc_001_new_registeration - entering email
+12:25:05.188 [main] INFO  testcases.tc_001_new_registeration - entering password
+12:25:05.269 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:06:31.136 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:06:31.147 [main] INFO  testcases.tc_001_new_registeration - checking my account
+15:06:31.212 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:06:32.065 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+15:06:32.130 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+15:06:32.184 [main] INFO  testcases.tc_001_new_registeration - entering email
+15:06:32.233 [main] INFO  testcases.tc_001_new_registeration - entering password
+15:06:32.288 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:24:30.641 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:24:30.656 [main] INFO  testcases.tc_001_new_registeration - checking my account
+15:24:30.717 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:24:31.368 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+15:24:31.434 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+15:24:31.491 [main] INFO  testcases.tc_001_new_registeration - entering email
+15:24:31.541 [main] INFO  testcases.tc_001_new_registeration - entering password
+15:24:31.591 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:26:10.470 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:26:10.487 [main] INFO  testcases.tc_001_new_registeration - checking my account
+15:26:10.551 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:26:11.120 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+15:26:11.188 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+15:26:11.237 [main] INFO  testcases.tc_001_new_registeration - entering email
+15:26:11.285 [main] INFO  testcases.tc_001_new_registeration - entering password
+15:26:11.330 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:36:58.989 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:36:59.013 [main] INFO  testcases.tc_001_new_registeration - checking my account
+15:36:59.075 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:36:59.655 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+15:36:59.741 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+15:36:59.794 [main] INFO  testcases.tc_001_new_registeration - entering email
+15:36:59.871 [main] INFO  testcases.tc_001_new_registeration - entering password
+15:36:59.920 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:38:38.784 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:38:38.800 [main] INFO  testcases.tc_001_new_registeration - checking my account
+15:38:38.868 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:38:39.574 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+15:38:39.680 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+15:38:39.740 [main] INFO  testcases.tc_001_new_registeration - entering email
+15:38:39.803 [main] INFO  testcases.tc_001_new_registeration - entering password
+15:38:39.865 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:40:05.281 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:40:05.296 [main] INFO  testcases.tc_001_new_registeration - checking my account
+15:40:05.369 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:40:06.005 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+15:40:06.097 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+15:40:06.161 [main] INFO  testcases.tc_001_new_registeration - entering email
+15:40:06.227 [main] INFO  testcases.tc_001_new_registeration - entering password
+15:40:06.277 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:45:30.416 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:45:30.433 [main] INFO  testcases.tc_001_new_registeration - checking my account
+15:45:30.570 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:45:30.998 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+15:45:31.087 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+15:45:31.151 [main] INFO  testcases.tc_001_new_registeration - entering email
+15:45:31.205 [main] INFO  testcases.tc_001_new_registeration - entering password
+15:45:31.268 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:48:01.583 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:48:01.601 [main] INFO  testcases.tc_001_new_registeration - checking my account
+15:48:01.672 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:48:02.307 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+15:48:02.389 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+15:48:02.452 [main] INFO  testcases.tc_001_new_registeration - entering email
+15:48:02.526 [main] INFO  testcases.tc_001_new_registeration - entering password
+15:48:02.575 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:48:02.602 [main] INFO  testcases.tc_001_new_registeration - clicking on continue
+16:07:11.763 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+16:07:11.779 [main] INFO  testcases.tc_001_new_registeration - checking my account
+16:07:11.858 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+16:07:12.559 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+16:07:12.638 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+16:07:12.703 [main] INFO  testcases.tc_001_new_registeration - entering email
+16:07:12.763 [main] INFO  testcases.tc_001_new_registeration - entering password
+16:07:12.823 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+16:07:12.842 [main] INFO  testcases.tc_001_new_registeration - clicking on continue
+23:44:42.457 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+23:44:42.475 [main] INFO  testcases.tc_001_new_registeration - checking my account
+23:44:42.548 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+23:44:43.005 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+23:44:43.128 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+23:44:43.194 [main] INFO  testcases.tc_001_new_registeration - entering email
+23:44:43.252 [main] INFO  testcases.tc_001_new_registeration - entering password
+23:44:43.314 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+23:44:43.342 [main] INFO  testcases.tc_001_new_registeration - clicking on continue
+10:53:53.944 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+10:53:53.964 [main] INFO  testcases.tc_001_new_registeration - checking my account
+10:53:54.052 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+10:53:54.676 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+10:53:54.768 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+10:53:54.831 [main] INFO  testcases.tc_001_new_registeration - entering email
+10:53:54.898 [main] INFO  testcases.tc_001_new_registeration - entering password
+10:53:54.956 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+10:53:54.981 [main] INFO  testcases.tc_001_new_registeration - clicking on continue
+10:53:57.515 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+10:53:57.517 [main] INFO  testcases.tc_001_new_registeration - checking my account
+10:53:57.597 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+10:53:58.419 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+10:53:58.513 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+10:53:58.579 [main] INFO  testcases.tc_001_new_registeration - entering email
+10:53:58.654 [main] INFO  testcases.tc_001_new_registeration - entering password
+10:53:58.724 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+10:53:58.748 [main] INFO  testcases.tc_001_new_registeration - clicking on continue
+15:26:00.512 [TestNG-tests-2] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:26:00.528 [TestNG-tests-2] INFO  testcases.tc_001_new_registeration - checking my account
+15:26:00.861 [TestNG-tests-1] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:26:00.862 [TestNG-tests-1] INFO  testcases.tc_001_new_registeration - checking my account
+15:26:00.919 [TestNG-tests-2] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:26:00.946 [TestNG-tests-1] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:55:10.633 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+15:55:10.665 [main] INFO  testcases.tc_001_new_registeration - checking my account
+15:55:10.723 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+15:55:11.404 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+15:55:11.521 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+15:55:11.598 [main] INFO  testcases.tc_001_new_registeration - entering email
+15:55:11.667 [main] INFO  testcases.tc_001_new_registeration - entering password
+15:55:11.731 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+15:55:11.752 [main] INFO  testcases.tc_001_new_registeration - clicking on continue
+12:18:50.347 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+12:18:50.369 [main] INFO  testcases.tc_001_new_registeration - checking my account
+12:18:50.524 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+12:18:51.101 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+12:18:51.200 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+12:18:51.268 [main] INFO  testcases.tc_001_new_registeration - entering email
+12:18:51.342 [main] INFO  testcases.tc_001_new_registeration - entering password
+12:18:51.399 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+12:18:51.423 [main] INFO  testcases.tc_001_new_registeration - clicking on continue
+14:50:58.540 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+14:50:58.557 [main] INFO  testcases.tc_001_new_registeration - checking my account
+14:50:58.695 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+14:50:59.468 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+14:50:59.531 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+14:50:59.583 [main] INFO  testcases.tc_001_new_registeration - entering email
+14:50:59.630 [main] INFO  testcases.tc_001_new_registeration - entering password
+14:50:59.678 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+14:50:59.696 [main] INFO  testcases.tc_001_new_registeration - clicking on continue
+10:57:25.143 [main] INFO  testcases.tc_001_new_registeration - *****starting execution tc_001_new_registration***
+10:57:25.169 [main] INFO  testcases.tc_001_new_registeration - checking my account
+10:57:25.325 [main] INFO  testcases.tc_001_new_registeration - checking my registeration
+10:57:26.294 [main] INFO  testcases.tc_001_new_registeration - entering firstname
+10:57:26.470 [main] INFO  testcases.tc_001_new_registeration - entering lastname
+10:57:26.656 [main] INFO  testcases.tc_001_new_registeration - entering email
+10:57:26.860 [main] INFO  testcases.tc_001_new_registeration - entering password
+10:57:27.044 [main] INFO  testcases.tc_001_new_registeration - clicking privacy
+10:57:27.106 [main] INFO  testcases.tc_001_new_registeration - clicking on continue
